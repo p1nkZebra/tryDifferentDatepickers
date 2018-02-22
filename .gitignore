@@ -1,0 +1,10 @@
+**/.idea
+**.iml
+**/target
+
+# Mac
+.DS_Store
+
+
+#library
+/node_modules
